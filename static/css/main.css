@@ -2,7 +2,7 @@
 
 
 :root{
-    --h-title-color:#3948d2;
+    --h-title-color:#fd6d14;
 }
 
 .header {
@@ -23,7 +23,8 @@
 }
 
 .top-section h2 {
-    font-weight: 400;
+    /*font-weight: 400;   lep修改*/
+    font-weight: 700 !important;
 }
 
 .top-section .top-section-content {
