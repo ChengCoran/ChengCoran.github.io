@@ -11,7 +11,9 @@
    target="_blank">
    张云洲教授
 </a><br>
-邮箱：liep79@163.com<br>
+邮箱：<a href="mailto:liep79@163.com" style="color: inherit; text-decoration: none;">
+    liep79@163.com
+</a><br>
 
 #### Education
 本科：东北大学（985） 信息科学与工程学院 自动化 人工智能方向（A+学科）<br>
