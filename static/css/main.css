@@ -112,11 +112,3 @@ section .main-body{
         margin: 0;
     }
 }
-
-/* 调整左上角导航标题位置 */
-#page-top-title {
-    position: relative;
-    top: -10px;
-}
-
-
