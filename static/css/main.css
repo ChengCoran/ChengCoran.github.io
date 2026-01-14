@@ -17,7 +17,7 @@
 .top-section {
     position: relative;
     /* padding: 10rem 0; */
-    padding-top: 3rem;   /* 顶部留白变大 -> 标题被挤下去了 */
+    padding-top: 6rem;   /* 顶部留白变大 -> 标题被挤下去了 */
     padding-bottom: 5rem; /* 底部留白变小 */
     background-position: center;
     background-size: cover;
@@ -54,7 +54,7 @@ section header h2{
 
 section .main-body{
     font-size: 1.3rem;
-    font-weight: 400;
+    font-weight: 300;
     line-height: 2.4rem;
 }
 
