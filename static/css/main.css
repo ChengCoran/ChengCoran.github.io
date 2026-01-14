@@ -25,6 +25,7 @@
 .top-section h2 {
     /*font-weight: 400;   lep修改*/
     font-weight: 700 !important;
+    margin-top: 100rem !important;            /* 往下推一点 */
 }
 
 .top-section .top-section-content {
