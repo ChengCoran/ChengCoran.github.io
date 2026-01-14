@@ -4,7 +4,7 @@
 &emsp;&emsp;同事我也关注基于视觉的端到端自动驾驶系统，研究其中世界模型（World Model）的构建与推理机制，并探索VLA框架在驾驶场景中的理解与泛化能力。探索自动驾驶系统从感知到控制的闭环智能，实现更拟人、更可靠的环境交互与行为生成。<br>
 &emsp;&emsp;以数据重构现实，用算法理解世界，一起走向更智能的未来吧！🚀🚀🚀
 #### Biography
-东北大学（985）研究生二年级在读
+**东北大学（985）**研究生二年级在读<br>
 导师：
 <a href="http://faculty.neu.edu.cn/zhangyunzhou/zh_CN/index/53376/list/index.htm"
    style="color: #1f6feb; text-decoration: none;"
