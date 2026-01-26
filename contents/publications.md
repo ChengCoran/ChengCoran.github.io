@@ -34,10 +34,16 @@
 
 
 #### 端到端自动驾驶 VLA 模型实践
-<br>
-<br>
+<!-- MP4 视频 -->
 <div align="center">
-    找个开源跑一下
+    <video width="800" autoplay loop muted playsinline
+           style="border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); margin: 20px 0;">
+        <source src="/static/assets/img/002.mp4" type="video/mp4">
+        您的浏览器不支持 video 标签
+    </video>
+</div>
+<div align="center">
+    端到端自动驾驶 VLA 模型实践
 </div><br>
 
 
