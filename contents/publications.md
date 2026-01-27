@@ -39,7 +39,7 @@
 <div align="center">
     <video width="800" autoplay loop muted playsinline
            style="border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); margin: 20px 0;">
-        <source src="/static/assets/img/002.mp4" type="video/mp4">
+        <source src="/static/assets/img/003.mp4" type="video/mp4">
         您的浏览器不支持 video 标签
     </video>
 </div>
