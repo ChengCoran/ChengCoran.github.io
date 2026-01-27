@@ -33,6 +33,7 @@
 
 
 #### 端到端自动驾驶 VLA 模型实践
+</div>
 <!-- MP4 视频 -->
 <div align="center">
     <video width="800" autoplay loop muted playsinline
@@ -42,7 +43,7 @@
     </video>
 </div>
 <div align="center">
-    端到端自动驾驶 VLA 模型实践
+    基于Qwen2.5-VL-3B的VLA轨迹预测
 </div><br>
 
 
