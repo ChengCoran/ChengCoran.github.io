@@ -2,7 +2,7 @@
 &emsp;&emsp;利用DepthanythingV3获取单目深度，构建全局一致的稠密点云，并利用Colmap计算每张图片的位姿和去畸变图像，最后总体作为输入进行高斯训练和渲染。
 
 <div align="center">
-    <img src="static/assets/img/dense_construction.png" alt="我的照片" style="width: 800px; max-width: 95%; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); margin: 20px 0;">
+    <img src="static/assets/img/dense_construction.png" alt="我的照片" style="width: 600px; max-width: 95%; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); margin: 20px 0;">
 </div>
 <div align="center">
     基于单目RGB图像的真实场景（室内锅炉房）稠密重建效果
@@ -12,8 +12,8 @@
 </div>
 <!-- MP4 视频 -->
 <div align="center">
-    <video width="800" autoplay loop muted playsinline
-           style="border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); margin: 20px 0;">
+    <video autoplay loop muted playsinline preload="auto"
+           style="width: auto; max-height: 600px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); margin: 20px 0;">
         <source src="static/assets/img/3dgs.mp4" type="video/mp4">
         您的浏览器不支持 video 标签
     </video>
@@ -40,7 +40,7 @@
 
 
 <div align="center">
-    <img src="static/assets/img/octomap.png" alt="我的照片" style="width: 800px; max-width: 95%; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); margin: 20px 0;">
+    <img src="static/assets/img/octomap.png" alt="我的照片" style="width: 600px; max-width: 95%; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); margin: 20px 0;">
 </div>
 <div align="center">
     在TUM-RGBD（room1）栅格地图生成效果
