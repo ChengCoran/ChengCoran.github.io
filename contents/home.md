@@ -15,9 +15,30 @@
     490631939@qq.com
 </a><br>
 
+<style>
+  .edu-row {
+    display: flex;
+    gap: 30px; /* 设置每一项之间的间距 */
+    margin-bottom: 8px;
+  }
+  .edu-row span {
+    min-width: 80px; /* 保证第一项对齐 */
+  }
+</style>
+
 #### Education
-本科：华侨大学      信息科学与工程学院  集成电路设计与集成系统 <br>
-硕士：东北大学(985) 信息科学与工程学院  控制工程 （A+学科）
+<div class="edu-row">
+  <span>本科：</span>
+  <span>华侨大学</span>
+  <span>信息科学与工程学院</span>
+  <span>集成电路设计与集成系统</span>
+</div>
+<div class="edu-row">
+  <span>硕士：</span>
+  <span>东北大学(985)</span>
+  <span>信息科学与工程学院</span>
+  <span>控制工程 （A+学科）</span>
+</div>
 #### Research Interests
 三维重建、SLAM
 
